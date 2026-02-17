@@ -26,3 +26,6 @@
 // The four corners
 #define VIAL_UNLOCK_COMBO_ROWS { 0, 5, 3, 8 }
 #define VIAL_UNLOCK_COMBO_COLS { 0, 0, 0, 0 }
+
+#define USB_MAX_POWER_CONSUMPTION 500
+#define RGB_MATRIX_MAXIMUM_BRIGHTNESS 200
